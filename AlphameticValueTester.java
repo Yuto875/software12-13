@@ -38,7 +38,7 @@ public class AlphameticValueTester {
                                 vals[5] = F;
 
                                 if (isValidSolution(vals)) {
-                                    System.out.println("解発見:");
+                                    System.out.println("条件を見たす解を発見:");
                                     System.out.println("A=" + A + ", B=" + B + ", C=" + C +
                                             ", D=" + D + ", E=" + E + ", F=" + F);
 
